@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Prist | Gatsby & Prismic Starter`,
+    title: `Mattachine | NYC Web Agency`,
         description: `A starter powered by Gatsby and Prismic to showcase portfolios and blogs.`,
     author: `Marguerite Roth | marguerite.io`,
   },
@@ -39,7 +39,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/oscar-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/mattachine-icon.png`, // This path is relative to the root of the site.
       },
     },
     // https://www.gatsbyjs.org/packages/gatsby-plugin-google-analytics/
